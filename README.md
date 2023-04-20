@@ -1,7 +1,13 @@
-## BUETPx: A Platform for Photographers
+## BUET Photographic Society - BUETPS
 
-Motivation taken from [500px](https://500px.com/)
+## Features: 
 
-A Brief description of what we did:
-
-[Demo video](https://www.youtube.com/watch?v=LPQ-0RvxEpk&ab_channel=NaeemAhmed)
+* High-Quality Photography community and marketplace
+* Customizable portfolio to showcase your work
+* Licensing marketplace for photographers to sell their photos
+* Community engagement through comments, likes, shares, and challenges
+* Opportunities to participate in various photo challenges and contests organized
+* Chance to showcase your photography skills and creativity to a wider audience.
+* Prizes offered for top-performing entries that vary from challenge to challenge.
+* Engage with other photographers and gain recognition within the 500px community through likes, comments and shares.
+* Access to feedback from judges and other photographers which can help improve your photography skills.
